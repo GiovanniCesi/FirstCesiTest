@@ -5,3 +5,4 @@ coverage
 *.log
 docs/_site
 docs/.ruby-version
+bin
